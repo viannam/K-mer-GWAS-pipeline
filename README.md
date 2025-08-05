@@ -1,4 +1,4 @@
-# 🌽 K-mers GWAS Pipeline (based on Voichek et al.)
+# 🌽 K-mers GWAS Pipeline (based on Voichek et al. 2020)
 
 This repository provides a SLURM-ready pipeline for running **k-mer-based genome-wide association studies (GWAS)**, using the [`kmersGWAS`](https://github.com/voichek/kmersGWAS) library developed by [Voichek and Weigel (2020)](https://www.nature.com/articles/s41587-019-0380-0).
 
