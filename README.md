@@ -105,7 +105,8 @@ This work uses the **kmersGWAS** library developed by **Yoav Voichek** and **Det
 🔗 https://github.com/voichek/kmersGWAS
 
 > We thank the authors for making the tools publicly available under the GPL-3.0 license.
-
+![K-mers GWAS pipeline diagram](docs/pipeline_diagram.png)
+*K-mer-based GWAS workflow. Adapted from Corut & Wallace, 2024*
 ---
 
 ## 📜 License
